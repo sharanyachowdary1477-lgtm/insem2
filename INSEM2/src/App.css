@@ -1,0 +1,38 @@
+.container {
+  width: 350px;
+  margin: 100px auto;
+  padding: 30px;
+  text-align: center;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px gray;
+}
+
+h2 {
+  color: blue;
+}
+
+input {
+  padding: 12px;
+  width: 90%;
+  margin: 15px 0;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 25px;
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
